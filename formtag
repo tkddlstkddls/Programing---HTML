@@ -1,0 +1,8 @@
+<form action="" method = "" name = "">
+</form>
+
+
+
+action은 입력받은 정보를 어느 주소로 보낼 것인지에 대한 기능
+method는 get과 post가 있다 get은 속도는 빠르지만 보안에 약함, post는 속도는 느리지만 보안이 좋음
+name은 식별하기 위한 이름을 정해주는 기능이다.
